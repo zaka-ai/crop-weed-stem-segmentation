@@ -7,7 +7,7 @@ In this repositry, we share with you our implementations and pretrained weights 
 - U-Net Joint Model
 
 ## Further Details
-Please refer to the following [article]() where we document our journey starting from finding relevant datasets, choosing the proper neural network architecture, training the model, evaluating its performance, and finally launching it.
+Please refer to the following [article](https://medium.com/zaka-ai/plant-images-segmentation-with-deep-learning-ff1ed67e80e6) where we document our journey starting from finding relevant datasets, choosing the proper neural network architecture, training the model, evaluating its performance, and finally launching it.
 
 ## Collaborators: <br>
 - [Rawane Madi](https://github.com/r-cogzy)
